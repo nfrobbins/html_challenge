@@ -1,0 +1,32 @@
+.centered{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h1{
+
+	font-family: Roboto;
+	font-size: 18px;
+	color: #632920; /*reddish-brown*/
+}
+
+ol{
+	border: #632920 1px solid;
+	margin: 10px;
+}
+
+li{
+	color: #995469;
+	font-size: 14px;
+}
+
+.highlight {
+	color: #780606;
+}
+
+#main-text{
+	border: #913d0c 1px dotted;
+	background-color: #edd298;
+}
+
